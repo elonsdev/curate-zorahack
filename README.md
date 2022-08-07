@@ -1,1 +1,1 @@
-# Curare Zora Hackathon Demo 
+# Curate Zora Hackathon Demo 

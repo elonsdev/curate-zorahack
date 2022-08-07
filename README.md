@@ -1,1 +1,1 @@
-# Spotify-Starter
+# Curare Zora Hackathon Demo 
